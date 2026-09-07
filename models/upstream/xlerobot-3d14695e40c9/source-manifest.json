@@ -1,0 +1,385 @@
+{
+  "repo": "Vector-Wangel/XLeRobot",
+  "commit": "3d14695e40c9c68229c0aacffca6053c75cd3eb6",
+  "downloaded_files": 51,
+  "bytes": 5336577,
+  "files": [
+    {
+      "file": "LICENSE",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/LICENSE",
+      "bytes": 11357,
+      "git_blob_sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "file": "meshes/Base.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Base.stl",
+      "bytes": 443484,
+      "git_blob_sha": "14e6ba55e0618928b4438e8a3cf4aa70a22cfbc1",
+      "sha256": "bb8afb0303c0125f265a797625cfaf646ac214d5d2dc9c986348c415755e2a74"
+    },
+    {
+      "file": "meshes/Base.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Base.stl.convex.stl",
+      "bytes": 14884,
+      "git_blob_sha": "9dfadd6e68d70dc5a09644e2add0381c0984339a",
+      "sha256": "803fc14ae88d09b213ea3656b55c97a30949454dd0cbd25ef1f82a30dc7d7e2a"
+    },
+    {
+      "file": "meshes/Base_Motor.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Base_Motor.stl",
+      "bytes": 154284,
+      "git_blob_sha": "748c29e701b65b7d59501000ea6de01d98272097",
+      "sha256": "aac4485d448eca418d2a93df3f78f449bd59b21ec1af2a579171819fd44ea576"
+    },
+    {
+      "file": "meshes/Base_Motor.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Base_Motor.stl.convex.stl",
+      "bytes": 15684,
+      "git_blob_sha": "cfeed2d2a27bfaf8752810c4197360221786aead",
+      "sha256": "39caf4a5e3b3f651f314a08074a33f484e8b704c70beca1072467cfd173b35f4"
+    },
+    {
+      "file": "meshes/Fixed_Jaw.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Fixed_Jaw.stl",
+      "bytes": 264584,
+      "git_blob_sha": "aa59a12258289f80084afc2b47ec8b3c2458a85f",
+      "sha256": "5528867073033eaa4c27a8087180954f3f0635bd69d517d5cace92f01dd266b2"
+    },
+    {
+      "file": "meshes/Fixed_Jaw.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Fixed_Jaw.stl.convex.stl",
+      "bytes": 36384,
+      "git_blob_sha": "a67338bca337a4895f7f981985d57543b85b8b92",
+      "sha256": "28851a6e8ad0db609e9efeaa5fc488ab491226eba689dd81a72ddfb775590abe"
+    },
+    {
+      "file": "meshes/Fixed_Jaw_Motor.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Fixed_Jaw_Motor.stl",
+      "bytes": 151884,
+      "git_blob_sha": "862a8c1fbb91475558031f6d1561deb1748497b3",
+      "sha256": "0321bfb902d5a119c4f2a934ab4be7e9ea8c93a02e1685f066f99c24a5ca3ecf"
+    },
+    {
+      "file": "meshes/Fixed_Jaw_Motor.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Fixed_Jaw_Motor.stl.convex.stl",
+      "bytes": 15684,
+      "git_blob_sha": "4a465092649aac1f578e13ab10447d52ad5a20bc",
+      "sha256": "53c25f458ad3014702ad807a6e6bc1cf80caeb95cbadfd261705041ecb530ded"
+    },
+    {
+      "file": "meshes/Fixed_Jaw_part1.ply",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Fixed_Jaw_part1.ply",
+      "bytes": 628,
+      "git_blob_sha": "c454dcbc3115aece59382248d265cb372c0b95a6",
+      "sha256": "2ca8d408c3a365bac262e82daacd6c9dedf40e90c1af28c48648dfbf636f5130"
+    },
+    {
+      "file": "meshes/Fixed_Jaw_part1.ply.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Fixed_Jaw_part1.ply.convex.stl",
+      "bytes": 684,
+      "git_blob_sha": "84f964cb571a91d4f6efe7924f6646f84da224aa",
+      "sha256": "a91f823092866cb519ff8b2590d6ca7ded921c70c06d64f9524fad2c244a6c62"
+    },
+    {
+      "file": "meshes/Fixed_Jaw_part2.ply",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Fixed_Jaw_part2.ply",
+      "bytes": 879,
+      "git_blob_sha": "427d426ada0214514ee8be833e18f36dd939308e",
+      "sha256": "b79f3f2ae5383513ea559d0449dedd15281a68d4efbfa3871ea024d3100bae91"
+    },
+    {
+      "file": "meshes/Fixed_Jaw_part2.ply.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Fixed_Jaw_part2.ply.convex.stl",
+      "bytes": 1284,
+      "git_blob_sha": "73a723e0c2f233ce895ec03718b9f6adba3ae609",
+      "sha256": "dd6162eb944dc700244552de36e723ba4097ccd25688f06a7413b8133f637d92"
+    },
+    {
+      "file": "meshes/Lower_Arm.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Lower_Arm.stl",
+      "bytes": 347184,
+      "git_blob_sha": "6187f7dab64d9bc295179fe1491808004aa19594",
+      "sha256": "a04511bc65cbb702b2d6023764de947888b06a09fbf272803f39c22724329a3e"
+    },
+    {
+      "file": "meshes/Lower_Arm.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Lower_Arm.stl.convex.stl",
+      "bytes": 51484,
+      "git_blob_sha": "c59f2c8f4eaaddd6d8690d7fc732a9de20789f3f",
+      "sha256": "b9bea1636630ef069a53c1df71506706da972caecad930f0164552959bcc165f"
+    },
+    {
+      "file": "meshes/Lower_Arm_Motor.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Lower_Arm_Motor.stl",
+      "bytes": 151884,
+      "git_blob_sha": "50918d6f35eeca3adacfac2502e2ccda4f2efa56",
+      "sha256": "07368fa4c50dea70e8157accee71072120c0cb374f672c85aba1d081702bc476"
+    },
+    {
+      "file": "meshes/Lower_Arm_Motor.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Lower_Arm_Motor.stl.convex.stl",
+      "bytes": 15384,
+      "git_blob_sha": "bd389e2728fffe7c8406d2b86bde06f6791c8fee",
+      "sha256": "6ee6a4b3785d653738858807972936995c9649ab9c56fe6a6cf456d38a3e0cfc"
+    },
+    {
+      "file": "meshes/Moving_Jaw.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Moving_Jaw.stl",
+      "bytes": 177184,
+      "git_blob_sha": "af246df6f45aa9ecc78d78e83f94e2e0eac1ef39",
+      "sha256": "6d9c923024c75e6f0a8d8300317c4d8a17dd49880260cbc60b7fe5e0c6dadfa8"
+    },
+    {
+      "file": "meshes/Moving_Jaw.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Moving_Jaw.stl.convex.stl",
+      "bytes": 33784,
+      "git_blob_sha": "75270d7d4cb323bd49803662b0fa994878f3f4a8",
+      "sha256": "da2c3bfb4dd4d3916d0dfb731565f52eeb32f07e670ce58704d98ebff3e3e637"
+    },
+    {
+      "file": "meshes/Moving_Jaw_part1.ply",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Moving_Jaw_part1.ply",
+      "bytes": 628,
+      "git_blob_sha": "ff2a43eab8bfb651d8791b8c0a196f42f68f9e09",
+      "sha256": "d22c61d563b3d386b6028e9e12478f143a38d859ca2993a11d52b67f58831602"
+    },
+    {
+      "file": "meshes/Moving_Jaw_part1.ply.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Moving_Jaw_part1.ply.convex.stl",
+      "bytes": 684,
+      "git_blob_sha": "ec12863b28fa04fd6fea9ac66c82372876abfb1e",
+      "sha256": "c331a7c7b7a4cdddeb894b4f72e897a2a77b549d9f2a335eea77f10a90ec8567"
+    },
+    {
+      "file": "meshes/Moving_Jaw_part2.ply",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Moving_Jaw_part2.ply",
+      "bytes": 582,
+      "git_blob_sha": "2d978a945c7ebaf5554f15554f60edb03e2c2395",
+      "sha256": "5e4048f4b042ae49dee03d257a97ca6391c8bae1bd04c7be982b937c99f42f18"
+    },
+    {
+      "file": "meshes/Moving_Jaw_part2.ply.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Moving_Jaw_part2.ply.convex.stl",
+      "bytes": 684,
+      "git_blob_sha": "46fe79d981b07199555a468e32ef1fcb07cc528a",
+      "sha256": "421a34db4d1426b1abe1f30ed73525f07674645130df94d2935b2ac2084e37e1"
+    },
+    {
+      "file": "meshes/Moving_Jaw_part3.ply",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Moving_Jaw_part3.ply",
+      "bytes": 701,
+      "git_blob_sha": "7375e41fa5b2648015fffebb11e78a31e24ecfd0",
+      "sha256": "24b177321c277e3070e0357b1611bf0d7c77f684d09be615e5f7758f1654aaf9"
+    },
+    {
+      "file": "meshes/Moving_Jaw_part3.ply.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Moving_Jaw_part3.ply.convex.stl",
+      "bytes": 984,
+      "git_blob_sha": "c06213c3d2a1b20354ec168023388708c475bab0",
+      "sha256": "a0d92ac9c477f283211d3b5b925f184d7f031a2001853abfabba3c00a0a3c6b4"
+    },
+    {
+      "file": "meshes/Rotation_Pitch.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Rotation_Pitch.stl",
+      "bytes": 347584,
+      "git_blob_sha": "05f648ccbd04941b757ab76552768d06108b66b3",
+      "sha256": "4a1476f57d28d2c065bc0ede6a674cb3ebacf1193372916ef1e0ff32eeb92cf0"
+    },
+    {
+      "file": "meshes/Rotation_Pitch.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Rotation_Pitch.stl.convex.stl",
+      "bytes": 39884,
+      "git_blob_sha": "769400498ed079603cba8f75de397ca1632eb6ce",
+      "sha256": "d7831fd9ca9357b44e53e2ad52a85c18b4e10c11f8dcd5bc6c51aad3dac774ec"
+    },
+    {
+      "file": "meshes/Rotation_Pitch_Motor.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Rotation_Pitch_Motor.stl",
+      "bytes": 154284,
+      "git_blob_sha": "da9641ffcb4a6b22698a89e8e70a6412e347bbda",
+      "sha256": "f4fbcf18d8f2e91d12a767c1679430140dce0c81ea1478cc153bfce3a162db61"
+    },
+    {
+      "file": "meshes/Rotation_Pitch_Motor.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Rotation_Pitch_Motor.stl.convex.stl",
+      "bytes": 15584,
+      "git_blob_sha": "9184147053b9277b87246077fe1299a8eb54b04e",
+      "sha256": "14008290c91b72bb76cf7d06c3d000ac7e2d0dcba31ca5931254679c33ab8ae8"
+    },
+    {
+      "file": "meshes/Upper_Arm.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Upper_Arm.stl",
+      "bytes": 215184,
+      "git_blob_sha": "7675a218c15528c8916af7d4e565f7294fe6ddd6",
+      "sha256": "d97ad37c90400fe39bb2d5ace8b4290f3d1262e13f1d4f166494421752d5f3b7"
+    },
+    {
+      "file": "meshes/Upper_Arm.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Upper_Arm.stl.convex.stl",
+      "bytes": 41984,
+      "git_blob_sha": "d7dbff5e2834ddbc45b3399f49abc0c8e7837547",
+      "sha256": "75bcb8bdb1fa47afa6efe37e75cbb8445c033e60a5c0593dc9a67336e208d6e2"
+    },
+    {
+      "file": "meshes/Upper_Arm_Motor.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Upper_Arm_Motor.stl",
+      "bytes": 152284,
+      "git_blob_sha": "6a86c1994c158d454ec26ee4323d2a74928a0148",
+      "sha256": "bafdb2cb9e9a884e62b5fbf15b1f706a65771da82764dbe703df128d9f34d723"
+    },
+    {
+      "file": "meshes/Upper_Arm_Motor.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Upper_Arm_Motor.stl.convex.stl",
+      "bytes": 15984,
+      "git_blob_sha": "7ae6d27942d5860a88992d4df21ffb37fb5aa2d0",
+      "sha256": "33aec3ed89c0b3d6d2644f59c2dbc7481888e999a903b3acc3d419452945c934"
+    },
+    {
+      "file": "meshes/Wrist_Pitch_Roll.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Wrist_Pitch_Roll.stl",
+      "bytes": 341684,
+      "git_blob_sha": "a1512f71e3c62f287ead27d352982e55a826a47a",
+      "sha256": "58e83ce1c8b24e1fa3a79672ea965ea4143986c81a21386dcd6da1cbcfdc94bb"
+    },
+    {
+      "file": "meshes/Wrist_Pitch_Roll.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Wrist_Pitch_Roll.stl.convex.stl",
+      "bytes": 52384,
+      "git_blob_sha": "2362ba906571bf27bf26ba4b7c299c5187d44886",
+      "sha256": "10346ae54e517d5616c3044e2c58be23cddfcc6fab3fb463e0c248d86ff651d8"
+    },
+    {
+      "file": "meshes/Wrist_Pitch_Roll_Motor.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Wrist_Pitch_Roll_Motor.stl",
+      "bytes": 133684,
+      "git_blob_sha": "84fd094181d86fb569957110418fe945d877d373",
+      "sha256": "89ac3fb1d2536fa4f7c40e7449be4b934d7d776f9cd0453c842767f980ff6c18"
+    },
+    {
+      "file": "meshes/Wrist_Pitch_Roll_Motor.stl.convex.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/Wrist_Pitch_Roll_Motor.stl.convex.stl",
+      "bytes": 14584,
+      "git_blob_sha": "b6c7b738cb5f211e849f8cf89403a1a02995c94e",
+      "sha256": "cc214e94e9172640346689ed89fdcb01129fd75bde885965c10ebd1683de1714"
+    },
+    {
+      "file": "meshes/XLeRobot_camera1.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/XLeRobot_camera1.stl",
+      "bytes": 42284,
+      "git_blob_sha": "07ec94c6ba17927bdc69853b1665595304daca30",
+      "sha256": "f54fc014701f1772f1fd1f4699b5a17b8648ccf0d5d34f5af35048101b978de0"
+    },
+    {
+      "file": "meshes/XLeRobot_camera2.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/XLeRobot_camera2.stl",
+      "bytes": 120884,
+      "git_blob_sha": "ae68606062171d8d37edb5c298fb0edf6dba4516",
+      "sha256": "95154bef44deeb7138f6914ac23250189100df17be1433c70b297eab7398a109"
+    },
+    {
+      "file": "meshes/raskogbody.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/raskogbody.stl",
+      "bytes": 629384,
+      "git_blob_sha": "c648f41a636e9cb4054ab75d1d078023206b541d",
+      "sha256": "b208f31d48329e6c68b89a27ce25dade6a26ceeed155989b216ee4e068c702cb"
+    },
+    {
+      "file": "meshes/raskogwheel1.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/raskogwheel1.stl",
+      "bytes": 91884,
+      "git_blob_sha": "c61ab7cddb3f4cc5e902998b84ce6239d83a61bb",
+      "sha256": "cb8330074b23de6aba316fb47978b9acd194a8020820255ba2c6b64350781161"
+    },
+    {
+      "file": "meshes/raskogwheel2.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/raskogwheel2.stl",
+      "bytes": 114884,
+      "git_blob_sha": "36c03d224e8d920018914797f6f5b19a3ba46efa",
+      "sha256": "719d4d1ec811f54af6bdadab64dcec5411ed356d1bce691e7bf19ab685f02edf"
+    },
+    {
+      "file": "meshes/topbase1.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/topbase1.stl",
+      "bytes": 101784,
+      "git_blob_sha": "fb2d0ec5bc6beb2f27a2a5099d36bf01bce8048b",
+      "sha256": "9d8ffc8101829b061e10ce3ee312c475599936dff49f826abc93c36b3767e9da"
+    },
+    {
+      "file": "meshes/topbase2.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/topbase2.stl",
+      "bytes": 83284,
+      "git_blob_sha": "34edf2ce981fdbbe320fed578d4c8d90b1d4d43c",
+      "sha256": "866c172149e274ffad3fbb9a98c2dcd348eb3556a8227b73e2c0c09d9ce2bbef"
+    },
+    {
+      "file": "meshes/tophead3.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/tophead3.stl",
+      "bytes": 158884,
+      "git_blob_sha": "38843307a28774a714a95c61f3617c72410dc904",
+      "sha256": "117adaf328309532ff161464d8b78eaa50d1dcd0b8ade10ca2a12866080d435b"
+    },
+    {
+      "file": "meshes/tophead4.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/tophead4.stl",
+      "bytes": 119284,
+      "git_blob_sha": "bae43256f92769fac78b59f87e018ddadcf49baf",
+      "sha256": "a427b70481f89f5fe41480613a8f1470e1e0ae18fd085142c0bee5cd5ad9254d"
+    },
+    {
+      "file": "meshes/tophead5.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/tophead5.stl",
+      "bytes": 70084,
+      "git_blob_sha": "4114ead18b582c78f55096563e603b7e82acc78d",
+      "sha256": "54bda4db70209c444aff603267209e6b382ec11729ec2bde38989e360cbc7985"
+    },
+    {
+      "file": "meshes/tophead6.stl",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/meshes/tophead6.stl",
+      "bytes": 313384,
+      "git_blob_sha": "fabc264e87b28bd43f1654424748f825c51aa4fa",
+      "sha256": "3646936db777b61f57b6150cded1894b696e519d99071425fc3911458bb11c95"
+    },
+    {
+      "file": "xlerobot.srdf",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/xlerobot.srdf",
+      "bytes": 2455,
+      "git_blob_sha": "44696b8eb9973483552f28d50d1f16d7710a95c8",
+      "sha256": "7f955cea3acf58411b36e5f47269a0543e9a8d4d4df64b0d4544a4efe43e2c3a"
+    },
+    {
+      "file": "xlerobot.urdf",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/xlerobot.urdf",
+      "bytes": 35061,
+      "git_blob_sha": "c6207a2e7c5c62086c88a22df5dc35fd5b560f69",
+      "sha256": "73e947aa4f3636819bd039c3fcd03c625760e9ad32ccadfea05710afa6bf5578"
+    },
+    {
+      "file": "xlerobot_front.urdf",
+      "url": "https://raw.githubusercontent.com/Vector-Wangel/XLeRobot/3d14695e40c9c68229c0aacffca6053c75cd3eb6/simulation/Maniskill/assets/xlerobot/xlerobot_front.urdf",
+      "bytes": 35058,
+      "git_blob_sha": "ac758ff3f59e5bb163a16b1dbdd764d61843cbd5",
+      "sha256": "c1d7393bafabe76c77f634f00f3d46984996d953566edaa584fdd3045d817ce0"
+    }
+  ],
+  "checks": [
+    {
+      "file": "xlerobot_front.urdf",
+      "links": 32,
+      "joints": 31,
+      "movable_joints": 17,
+      "mesh_references": 29,
+      "missing_meshes": [],
+      "bad_joint_links": []
+    },
+    {
+      "file": "xlerobot.urdf",
+      "links": 32,
+      "joints": 31,
+      "movable_joints": 17,
+      "mesh_references": 29,
+      "missing_meshes": [],
+      "bad_joint_links": []
+    }
+  ]
+}

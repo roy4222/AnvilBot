@@ -181,3 +181,7 @@ W2 不碰。這些是 W3「dataset→ACT」時的**資料策略與多技能編�
 - `docs/open-questions.md` — 滾動 TBD（板 `...4639` 複驗、F3 修復、Leader #2、leLab 版本衝突等）。
 
 > 規則重申：本表只負責「指路」。任何要宣稱已完成的事，先回 `hardware-state.md` / run-log 找 Evidence；找不到就寫 **TBD / 待驗證**。
+## 已保存的模型參考（2026-09-07）
+
+- [XLeRobot 完整 URDF 模型](../models/upstream/xlerobot-3d14695e40c9/README.md)：固定上游 commit，URDF、SRDF、mesh 與授權已存進本 repo；下載、檔案雜湊與 XML 引用檢查通過。
+- 用途是後續 Anvil 外觀修改與模擬探索；不是已完成的 as-built 模型，也沒有新增實機或模擬驗收。

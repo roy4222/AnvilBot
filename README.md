@@ -58,6 +58,12 @@ Roy's low-cost wheeled dual-arm Physical AI platform, built on the **XLeRobot**,
 | [`docs/open-questions.md`](./docs/open-questions.md) | 待 Roy/PM 拍板清單 |
 | [`docs/04-run-log/`](./docs/04-run-log/) · [`05`](./docs/05-failure-log.md) · [`06`](./docs/06-metrics.md) · [`08`](./docs/08-media-index.md) · [`09`](./docs/09-public-notes.md) | run-log / failure / metrics / 媒體索引 / 公開素材 |
 
+## 可下載的 URDF 模型（2026-09-07）
+
+完整官方模型已保存於 [`models/upstream/xlerobot-3d14695e40c9/`](./models/upstream/xlerobot-3d14695e40c9/README.md)，包含兩份 URDF、SRDF、全部 meshes、來源雜湊與上游授權。Clone 或下載本 repo ZIP 即可取得；載入時保留 URDF 與 `meshes/` 的相對位置。
+
+這是後續建立 Anvil 外觀／模擬版本的參考來源，尚未改成實物模型，也沒有完成物理模擬或真機驗證。
+
 ## 上游 / 致謝（built on）
 
 Anvil x XLeRobot 站在這些開源專案之上（皆為 read-only 參考或上游，不代表本專案身分）：
@@ -71,3 +77,5 @@ Anvil x XLeRobot 站在這些開源專案之上（皆為 read-only 參考或上�
 ## License
 
 本 repo 的硬體疊加層沿用上游 [MIT License](./LICENSE)（© 2025 MakerMods）。Roy 自寫的 `docs/` 內容為本專案的紀錄與證據。
+
+`models/upstream/xlerobot-3d14695e40c9/` 另保留 XLeRobot 上游 Apache-2.0 授權，詳見該目錄 [LICENSE](./models/upstream/xlerobot-3d14695e40c9/LICENSE)。
